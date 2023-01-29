@@ -1,1 +1,1 @@
-FROM hsakal/gdtot:latest
+FROM hsakal/edith:latest
